@@ -1,0 +1,31 @@
+{
+  "name": "docker-web-examples",
+  "version": "1.0.0",
+  "description": "nodejs web server running in docker container",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalrover/docker-web-examples.git"
+  },
+  "keywords": [
+    "docker",
+    "node.js"
+  ],
+  "author": "royalrover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royalrover/docker-web-examples/issues"
+  },
+  "homepage": "https://github.com/royalrover/docker-web-examples#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "redis": "^2.8.0"
+  }
+}

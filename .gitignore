@@ -1,0 +1,10 @@
+.editorconfig
+.jshintrc
+node_modules/
+.travis.yml
+*.swp
+.sass-cache/
+.DS_Store
+.idea
+mp-*
+vtrace/
